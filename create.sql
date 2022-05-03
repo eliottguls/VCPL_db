@@ -104,7 +104,40 @@ INSERT INTO _categories(libelleCat) VALUES ('2ème Catégorie');
 INSERT INTO _categories(libelleCat) VALUES ('1re Catégorie');
 INSERT INTO _categories(libelleCat) VALUES ('DN1');
 
-INSERT INTO _membres(membreID, nomMembre, prenomMembre, age, email, tel, dateArrive, anniversaire, libelleCat)  VALUES(1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '10-03-2019', null, '3ème catégorie' );
+INSERT INTO _membres(membreID, nomMembre, prenomMembre, age, email, tel, dateArrive, anniversaire)
+VALUES  (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (2, 'AUBRY', 'Jean-François', 38, 'aubry.jean-françois@gmail.com', '+33 4 23 92 57 10', '2009-10-10', '1982-10-12'),
+        (3, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (4, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (5, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (6, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (7, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (8, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (9, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (10, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (11, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (12, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (13, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (14, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (15, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (16, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (17, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (18, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (19, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14'),
+        (1, 'ALLENO', 'Thomas', 28, 'thomas.alleno@gmail.com', '+33 6 30 14 31 70', '2019-03-10', '1992-06-14');
 
 
 
